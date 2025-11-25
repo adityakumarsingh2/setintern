@@ -1,37 +1,35 @@
-# 🧱 Shanti Brick Field Website
+🎓 Intelligent Internship Allocation Platform
 
-Welcome to the official repository of **Shanti Brick Field** — a fully responsive and interactive website built with HTML, CSS, JavaScript, and PHP for managing and showcasing brick products and customer interactions.
+Welcome to the official repository of the AI-powered Internship Allocation System — a data-driven platform built to match students with the most suitable internship opportunities based on academic records, CV insights, and online engagement metrics.
 
----
+✅ Platform Highlights
 
-## 🌐 Website Features
+📄 Student Profile Analysis: Evaluates CV, CGPA, LinkedIn engagement & skills
+🤖 AI-Smart Allocation Engine: Automatically maps students to relevant internships
+📊 Data-Driven Decision Making: Ensures unbiased and fair opportunity distribution
+🗃️ Centralized Dashboard: View, manage, update student & internship data
+🔗 Seamless API Connectivity: Smooth communication between frontend and backend
+⚙️ Automated Recommendation Workflow: Reduces manual screening time
 
-- 🏠 **Home Page:** Beautiful landing with intro to Shanti Brick Field
-- ℹ️ **About Page:** Describes company history and mission
-- 📸 **Gallery:** Slideshow and product images
-- 📞 **Contact Form:** Visitors can get in touch (email integrated with PHPMailer)
-- 🛒 **Buy Form:** Customers can submit purchase requests
-- 📦 **Products:** Display of all available brick types
-- 📤 **Upload Feature:** Handles file/image uploads securely
-- 📬 **PHPMailer Integration:** Handles backend email notifications
+💡 Technologies Used
 
----
+HTML
 
-## 💡 Technologies Used
+CSS
 
-- HTML5
-- CSS3
-- JavaScript
-- PHP (Server-side)
-- PHPMailer (Email support)
-- MySQL (Database-based features)
-- Responsive Design (Mobile-Friendly)
+JavaScript
 
----
+PHP
 
-## 👨‍💻 Developer Info
+MySQL
 
-- **Developer**: Dipanshu Agnihotri  
-- **Email**: dipansh89agnihotri@gmail.com  
-- **Location**: Kanpur, Uttar Pradesh, India 🇮🇳 
+Machine Learning / Data-Driven Algorithms
 
+REST APIs
+
+🧩 System Capabilities
+
+✅ Internship recommendation & ranking
+✅ Secure database storage & retrieval
+✅ Automated matching based on eligibility criteria
+✅ Scalable and modular architecture
