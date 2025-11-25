@@ -13,19 +13,13 @@ Welcome to the official repository of the AI-powered Internship Allocation Syste
 
 💡 Technologies Used
 
-HTML
-
-CSS
-
-JavaScript
-
-PHP
-
-MySQL
-
-Machine Learning / Data-Driven Algorithms
-
-REST APIs
+1. HTML
+2. CSS
+3. JavaScript
+4. PHP
+5. MySQL
+6. Machine Learning / Data-Driven Algorithms
+7. REST APIs
 
 🧩 System Capabilities
 
