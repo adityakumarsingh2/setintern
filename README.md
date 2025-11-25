@@ -1,2 +1,2 @@
 # setintern
-A full stack platform for internship allocation that matches students to opportunities based on their CV, LinkedIn  engagement, CGPA, and other eligibility criteria. 
+Developed an intelligent internship allocation platform designed to match students with the most suitable opportunities by analyzing academic performance, CV data, and online engagement metrics. The system automates decision-making, streamlines internship mapping, and enhances fairness through data-driven insights.
