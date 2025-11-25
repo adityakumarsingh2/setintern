@@ -1,2 +1,37 @@
-# setintern
-Developed an intelligent internship allocation platform designed to match students with the most suitable opportunities by analyzing academic performance, CV data, and online engagement metrics. The system automates decision-making, streamlines internship mapping, and enhances fairness through data-driven insights.
+# 🧱 Shanti Brick Field Website
+
+Welcome to the official repository of **Shanti Brick Field** — a fully responsive and interactive website built with HTML, CSS, JavaScript, and PHP for managing and showcasing brick products and customer interactions.
+
+---
+
+## 🌐 Website Features
+
+- 🏠 **Home Page:** Beautiful landing with intro to Shanti Brick Field
+- ℹ️ **About Page:** Describes company history and mission
+- 📸 **Gallery:** Slideshow and product images
+- 📞 **Contact Form:** Visitors can get in touch (email integrated with PHPMailer)
+- 🛒 **Buy Form:** Customers can submit purchase requests
+- 📦 **Products:** Display of all available brick types
+- 📤 **Upload Feature:** Handles file/image uploads securely
+- 📬 **PHPMailer Integration:** Handles backend email notifications
+
+---
+
+## 💡 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP (Server-side)
+- PHPMailer (Email support)
+- MySQL (Database-based features)
+- Responsive Design (Mobile-Friendly)
+
+---
+
+## 👨‍💻 Developer Info
+
+- **Developer**: Dipanshu Agnihotri  
+- **Email**: dipansh89agnihotri@gmail.com  
+- **Location**: Kanpur, Uttar Pradesh, India 🇮🇳 
+
